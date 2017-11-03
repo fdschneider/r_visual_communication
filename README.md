@@ -2,6 +2,11 @@
 
 This presentation discusses concepts for visual communication in general, illustrated by examples using R, and in some cases applying post-processing in Adobe inDesign. 
 
+
+Access presentation at: 
+http://fdschneider.de/r_visual_communication/
+
+
 This presentation was given at Deutscher Wetterdienst, Offenbach on 18.10.2017, and at Senckenberg Biodiversity and Climate - Research center, Frankfurt, on 02.11.2017.  
 
 ## Topics
